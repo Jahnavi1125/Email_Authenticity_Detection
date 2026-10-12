@@ -9,15 +9,6 @@ Classifies emails as legitimate or spam/phishing using an NLP pipeline, and serv
 - Benchmarked Naive Bayes, SVM, Logistic Regression and Random Forest
 - Compared models using accuracy, precision, recall and F1-score
 - Best model served through a `/predict` REST endpoint
-
-## Results
-| Model | Accuracy | Precision | Recall | F1-score |
-|---|---|---|---|---|
-| Naive Bayes | _fill in_ | _fill in_ | _fill in_ | _fill in_ |
-| SVM | _fill in_ | _fill in_ | _fill in_ | _fill in_ |
-| Logistic Regression | _fill in_ | _fill in_ | _fill in_ | _fill in_ |
-| Random Forest | _fill in_ | _fill in_ | _fill in_ | _fill in_ |
-
 ## Project Files
 | File | Purpose |
 |---|---|
